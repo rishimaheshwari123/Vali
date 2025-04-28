@@ -6388,9 +6388,9 @@ ol.wp-block-rss {
 
 /* footer 2 ---------------------------------- */
 .footer-layout2 {
-  --body-color: #b5b5b5;
-  --th-border-color: rgba(1, 125, 3, 0.5);
-  background-color: #002d00;
+  --body-color: white;
+  --th-border-color: white;
+  background-color: #28a745;
 }
 
 .footer-layout2 a:before {
@@ -8151,7 +8151,7 @@ ul.comment-list:has(> .th-comment-item ~ .th-comment-item):first-child
 .hero-style2 {
   position: relative;
   z-index: 6;
-  padding: 375px 0 235px 0;
+  padding: 215px 0 235px 0;
 }
 
 .hero-style2 .hero-title {
